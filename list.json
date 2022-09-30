@@ -16,5 +16,11 @@
     "title": "Mini App #3",
     "description": "The first test mini app",
     "version": 1
+  },
+  {
+    "name": "TestAvPlayerApp",
+    "title": "Test Audio/Video Player",
+    "description": "A simple app for testing the audio/video module",
+    "version": 1
   }
 ]
